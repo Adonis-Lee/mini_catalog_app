@@ -72,11 +72,11 @@ DevTools 2.54.1
 
 | Splash | Products | Cart Active |
 |--------|----------|-------------|
-| ![Splash](screenshots/screenshot1_splash.png) | ![Products](screenshots/screenshot2_products.png) | ![Cart Active](screenshots/screenshot3_cart_count.png) |
+| ![Splash](screenshot1_splash.png) | ![Products](screenshot2_products.png) | ![Cart Active](screenshot3_cart_count.png) |
 
 | My Cart | Leave Dialog |
 |---------|--------------|
-| ![Cart](screenshots/screenshot4_cart.png) | ![Leave](screenshots/screenshot5_leave.png) |
+| ![Cart](screenshot4_cart.png) | ![Leave](screenshot5_leave.png) |
 
 ---
 
